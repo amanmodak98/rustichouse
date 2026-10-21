@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 220" width="600" height="220">
+  <g fill="none" stroke="#1b1a17" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <!-- bottle 1 -->
+    <path d="M125 14 L125 28 L120 38 L120 76 L125 80 L125 145 L165 145 L165 80 L170 76 L170 38 L165 28 L165 14 Z"/>
+    <line x1="121" y1="50" x2="164" y2="50"/>
+    <!-- bottle 2 -->
+    <path d="M260 24 L260 38 L255 48 L255 86 L260 90 L260 145 L320 145 L320 90 L325 86 L325 48 L320 38 L320 24 Z"/>
+    <line x1="256" y1="60" x2="319" y2="60"/>
+    <!-- bottle 3 -->
+    <path d="M415 14 L415 28 L410 38 L410 76 L415 80 L415 145 L455 145 L455 80 L460 76 L460 38 L455 28 L455 14 Z"/>
+    <line x1="411" y1="50" x2="454" y2="50"/>
+  </g>
+  <!-- ember underline -->
+  <rect x="50" y="158" width="500" height="2.4" fill="#c76a3e"/>
+  <!-- wordmark -->
+  <text x="300" y="200" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="68" letter-spacing="2" fill="#1b1a17">RUSTIC HOUSE</text>
+  <!-- subline -->
+  <text x="300" y="220" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" letter-spacing="14" fill="#1b1a17">CAFE   LOUNGE   BAR</text>
+</svg>

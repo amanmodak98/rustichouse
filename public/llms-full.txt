@@ -1,0 +1,91 @@
+# Rustic House — full corpus
+
+Rustic House is a contemporary multi-cuisine restaurant in Civil Lines, Roorkee — a cafe during the day, a tandoor and grill through lunch and dinner, and a lounge with cocktails and live music from Thursday. North Indian, Chinese, Italian, salads, wood-fired pizza, breakfast and shakes.
+
+> "There is no trick to a busy cafe in a small city. You cook well, you put the chair back where you found it."
+> — Aman, founder
+
+---
+
+## About
+
+Rustic House opened in 2018 at 77/2 Civil Lines, IIT Road, Roorkee, Uttarakhand. Cuisine: North Indian, Chinese, Italian, Continental, Cafe. Price range Rs.700 for two. The kitchen serves a single menu each service.
+
+---
+
+## Quick facts
+
+Rustic House is a cafe, lounge and bar at 77/2 Civil Lines, IIT Road, Roorkee, Uttarakhand. Founded in 2018. North Indian, Continental and Chinese cuisine, plus a full bar.
+
+---
+
+## Hours
+
+Monday: 11:00 – 23:00
+Tuesday: 11:00 – 23:00
+Wednesday: 11:00 – 23:00
+Thursday: 11:00 – 23:15
+Friday: 11:00 – 23:15
+Saturday: 11:00 – 23:15
+Sunday: 11:00 – 23:00
+
+---
+
+## Cuisine and approach
+
+North Indian, Continental, Chinese, café. The kitchen runs one menu each service — kebabs, tandoor breads, dals, pizzas, small plates and a few sweets. Most cooking is over charcoal or in a tandoor.
+
+---
+
+## Practical
+
+The cafe opens at 11am weekdays and noon Sundays. The lounge and al-fresco terrace stay open late; live music on Thursday, Friday and Saturday. Parties of thirteen or more go through the kitchen by phone.
+
+---
+
+## Notable policies
+
+Booking is held at the table for twenty minutes after the booked time. Cancellations within four hours may be charged. Private-room bookings carry a refundable deposit. The kitchen flags allergens on every card.
+
+## Pages on this site
+
+- [Home — the cafe, lounge, bar under one roof](https://rustichouse.in/)
+- [The history of Rustic House, Roorkee](https://rustichouse.in/our-story)
+- [Tonight's menu — North Indian, Continental, Chinese](https://rustichouse.in/menu)
+- [Bar and lounge — craft pours, mocktails, music](https://rustichouse.in/bar)
+- [Birthdays, engagements, corporate dinners](https://rustichouse.in/private-events)
+- [The cafe, lounge, brick-arch room and al-fresco terrace](https://rustichouse.in/gallery)
+- [Field notes from the kitchen](https://rustichouse.in/journal)
+- [Booking form for the cafe and lounge](https://rustichouse.in/reserve)
+- [Hours, address, parking, accessibility](https://rustichouse.in/visit)
+- [Phone, email, contact form](https://rustichouse.in/contact)
+- [Aggregate Q&A — AEO hub](https://rustichouse.in/faq)
+- [Gift cards](https://rustichouse.in/gift-cards)
+- [Terms and conditions](https://rustichouse.in/terms)
+- [Privacy policy](https://rustichouse.in/privacy)
+- [Cookie policy](https://rustichouse.in/cookies)
+
+## Quick answers (AEO)
+
+- **What is Rustic House?** A cafe, lounge and bar in Civil Lines, Roorkee — North Indian, Continental, Chinese from one open kitchen, plus a full bar.
+- **Where are you in Roorkee?** Civil Lines, Roorkee, Uttarakhand — see /visit.
+- **Do I need to book a table?** Walk-ins are always welcome; weekend evenings fill up so a booking helps.
+- **Does Rustic House serve alcohol?** Yes. The bar carries whiskies, brandy, rum, vodka, gin and a short list of cocktails and mocktails.
+- **Is the menu vegetarian-friendly?** Yes — most starters, all dals, paneer mains and pizzas are vegetarian as written.
+- **What time does Rustic House close?** 23:00 on weekdays and Sundays; 00:30 on Friday and Saturday (lounge runs later).
+- **Do you host private events?** Yes — buyouts, brick-arch room, lounge with live music.
+- **What is your cancellation policy?** Free up to four hours before service.
+- **Does the cafe take walk-ins?** Yes, especially during the day.
+
+## Contact
+
+- Phone: see /contact (placeholder in lib/site.ts)
+- Email: see /contact (placeholder in lib/site.ts)
+- Address: Civil Lines, Roorkee, Uttarakhand, India
+- Reservations: /reserve
+
+## Provenance
+
+Plain-language copy. All factual claims anchored to lib/site.ts and the FAQ registries in lib/faq.ts. Nothing is invented.
+
+— Rustic House, https://rustichouse.in

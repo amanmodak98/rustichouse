@@ -1,0 +1,35 @@
+# Rustic House
+
+> Cafe · Lounge · Bar — Civil Lines, Roorkee.
+
+Rustic House is a contemporary multi-cuisine restaurant in Civil Lines, Roorkee — a cafe during the day, a tandoor and grill through lunch and dinner, and a lounge with cocktails and live music from Thursday. North Indian, Chinese, Italian, salads, wood-fired pizza, breakfast and shakes.
+
+## Canonical
+- [Home](https://rustichouse.in/)
+- [Visit / Hours](https://rustichouse.in/visit)
+- [Menu](https://rustichouse.in/menu)
+- [Reserve](https://rustichouse.in/reserve)
+- [Contact](https://rustichouse.in/contact)
+- [FAQ](https://rustichouse.in/faq)
+
+## Pages
+- [Home — the cafe, lounge, bar under one roof](https://rustichouse.in/)
+- [The history of Rustic House, Roorkee](https://rustichouse.in/our-story)
+- [Tonight's menu — North Indian, Continental, Chinese](https://rustichouse.in/menu)
+- [Bar and lounge — craft pours, mocktails, music](https://rustichouse.in/bar)
+- [Birthdays, engagements, corporate dinners](https://rustichouse.in/private-events)
+- [The cafe, lounge, brick-arch room and al-fresco terrace](https://rustichouse.in/gallery)
+- [Field notes from the kitchen](https://rustichouse.in/journal)
+- [Booking form for the cafe and lounge](https://rustichouse.in/reserve)
+- [Hours, address, parking, accessibility](https://rustichouse.in/visit)
+- [Phone, email, contact form](https://rustichouse.in/contact)
+- [Aggregate Q&A — AEO hub](https://rustichouse.in/faq)
+- [Gift cards](https://rustichouse.in/gift-cards)
+- [Terms and conditions](https://rustichouse.in/terms)
+- [Privacy policy](https://rustichouse.in/privacy)
+- [Cookie policy](https://rustichouse.in/cookies)
+
+## Optional
+- [Sitemap](https://rustichouse.in/sitemap.xml)
+- [Robots](https://rustichouse.in/robots.txt)
+- [Full corpus](https://rustichouse.in/llms-full.txt)

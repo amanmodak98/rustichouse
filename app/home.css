@@ -1,0 +1,4 @@
+/* Counteract the fixed header so anchor CTAs land below it. */
+html {
+  scroll-padding-top: clamp(5rem, 9vw, 7rem);
+}
